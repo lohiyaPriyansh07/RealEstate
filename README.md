@@ -4,7 +4,7 @@ A full-stack real estate web application built using the MERN stack (MongoDB, Ex
 
 ## Deployment
 
-You can find the live deployment of this project [here](https://bluesky-estate-hub.onrender.com).
+You can find the live deployment of this project [here](https://realestate-1-tv7n.onrender.com).
 
 ## Features
 
